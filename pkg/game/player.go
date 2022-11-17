@@ -3,8 +3,8 @@ package game
 import (
 	"errors"
 
-	"github.com/teyvat-helper/hk4e-emu/pkg/store"
-	"github.com/teyvat-helper/hk4e-proto/pb"
+	"github.com/lotusmomo/hk4e-emu/pkg/store"
+	"github.com/lotusmomo/hk4e-proto/pb"
 )
 
 type Player struct {

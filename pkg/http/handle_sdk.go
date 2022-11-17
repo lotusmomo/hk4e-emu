@@ -13,8 +13,8 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/rs/zerolog/log"
-	"github.com/teyvat-helper/hk4e-emu/pkg/sdk"
-	"github.com/teyvat-helper/hk4e-emu/pkg/store"
+	"github.com/lotusmomo/hk4e-emu/pkg/sdk"
+	"github.com/lotusmomo/hk4e-emu/pkg/store"
 	"golang.org/x/crypto/bcrypt"
 )
 

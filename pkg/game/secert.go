@@ -3,9 +3,9 @@ package game
 import (
 	"sync"
 
-	"github.com/teyvat-helper/hk4e-emu/pkg/ec2b"
-	"github.com/teyvat-helper/hk4e-emu/pkg/http"
-	"github.com/teyvat-helper/hk4e-emu/pkg/mt19937"
+	"github.com/lotusmomo/hk4e-emu/pkg/ec2b"
+	"github.com/lotusmomo/hk4e-emu/pkg/http"
+	"github.com/lotusmomo/hk4e-emu/pkg/mt19937"
 )
 
 type Secret struct {
